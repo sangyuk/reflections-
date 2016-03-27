@@ -5,3 +5,8 @@ In order to create a repository.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is the connecting space between the working directory and the repository. It gives the user control over the number of files to commit. 
+
+How can you use the staging area to make sure you have done one commit per logical change? 
+
+commit only the right file and reset everything 
+
