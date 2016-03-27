@@ -13,3 +13,7 @@ commit only the right file and reset everything
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when you want to create several versions(experimental, not-production-quality, context-switch) and decide later on the official update 
+
+How do the diagrams help you visualize the branch structure?
+
+I can understand which branches are connected. 
