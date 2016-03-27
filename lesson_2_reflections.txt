@@ -17,3 +17,7 @@ when you want to create several versions(experimental, not-production-quality, c
 How do the diagrams help you visualize the branch structure?
 
 I can understand which branches are connected. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches enables one to track and combine changes in respective branches into one master branch. Diagram visualizes the merging effect.    
