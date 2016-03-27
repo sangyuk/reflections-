@@ -21,3 +21,8 @@ I can understand which branches are connected.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches enables one to track and combine changes in respective branches into one master branch. Diagram visualizes the merging effect.    
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: don't have to worry about skipping merging 
+Cons: sometimes unnecessary merging happens 
