@@ -13,3 +13,7 @@ clones: for committing changes in the local computer
 branches: for copying and modifying files in the local computer 
 
 They all serve different functions 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+you can keep it apart from the remote master branch and merge them when it is necessary to do so 
