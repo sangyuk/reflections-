@@ -17,3 +17,7 @@ They all serve different functions
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 you can keep it apart from the remote master branch and merge them when it is necessary to do so 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Will have to use dropbox or google drive. they are easier to use in the sense that I don't need to learn the language of git or github but i doubt it may create   
