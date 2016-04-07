@@ -20,4 +20,8 @@ you can keep it apart from the remote master branch and merge them when it is ne
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-Will have to use dropbox or google drive. they are easier to use in the sense that I don't need to learn the language of git or github but i doubt it may create   
+Will have to use dropbox or google drive. they are easier to use in the sense that I don't need to learn the language of git or github but i doubt it may create 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to freely experiement with my codes before officially incorporating them into the collaborative work I do with others. 
